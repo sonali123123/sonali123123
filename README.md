@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali123123" alt="sonali123123" /></a> </p>
 
-- ML project 1: [aps fault detection](https://github.com/sonali123123/aps-fault-detection)
-
 - 🌱 I’m currently learning **Data Science**
+
+- ML project 1: [aps fault detection](https://github.com/sonali123123/aps-fault-detection)
 
 - ML project2: [Flight Fare prediction](https://github.com/sonali123123/Flight_Fare_Prediction)
 
@@ -19,7 +19,7 @@
 
 - Python project: [Flipkart Review Scrapper](https://github.com/sonali123123/review21)
 
-- 💬 Ask me about **Statistics,Mathematics,Machine learning**
+- 💬 Ask me about **Statistics,Mathematics,Machine learning, NLP**
 
 - 📫 You can follow me on Linkdin: **https://www.linkedin.com/in/sonali-thakur-443a37241**
 
