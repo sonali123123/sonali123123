@@ -13,6 +13,10 @@
 
 - ML project2: [Flight Fare prediction](https://github.com/sonali123123/Flight_Fare_Prediction)
 
+- NLP project1: [Text Summarization](https://github.com/sonali123123/Text-Summarization-Project)
+
+- NLP Project2: [Mini IMDB app](https://github.com/sonali123123/Mini-IMDB-app)
+
 - Python project: [Flipkart Review Scrapper](https://github.com/sonali123123/review21)
 
 - 💬 Ask me about **Statistics,Mathematics,Machine learning**
