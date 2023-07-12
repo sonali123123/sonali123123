@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonali Thakur</h1>
-<h3 align="center">Aspiring Data Scientist with BSc.Mathematics(honours)</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <img align="right" alt="Aspiring Data Scientist" width="400" src="https://www.privatelabelfitness.com/wp-content/uploads/RemoteWorkerv01-1024x640.png">
 
