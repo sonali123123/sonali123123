@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonali Thakur</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">An AI Engineer</h3>
 
-<img align="right" alt="Aspiring Data Scientist" width="400" src="https://www.privatelabelfitness.com/wp-content/uploads/RemoteWorkerv01-1024x640.png">
+<img align="right" alt="An AI Engineer" width="400" src="https://www.privatelabelfitness.com/wp-content/uploads/RemoteWorkerv01-1024x640.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali123123&label=Profile%20views&color=0e75b6&style=flat" alt="sonali123123" /> </p>
 
