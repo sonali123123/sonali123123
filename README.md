@@ -7,17 +7,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali123123" alt="sonali123123" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
 
-- ML project 1: [aps fault detection](https://github.com/sonali123123/aps-fault-detection)
 
-- ML project2: [Flight Fare prediction](https://github.com/sonali123123/Flight_Fare_Prediction)
+- AI Project 1: [Multilingual_ChatBot](https://github.com/sonali123123/Multilingual_ChatBot)
+  
+- AI Project 2: [MultiPDF_ChatBot](https://github.com/sonali123123/MultiPDF_ChatBot)
+
+- AI Project 3: [AI_Agent](https://github.com/sonali123123/Python_AI_Agent)
+
+- AI Project 4: [Automate_PDF_to_CSV_OCR](https://github.com/sonali123123/Automate_PDF_to_CSV)_
+- 
+- ML project : [aps fault detection](https://github.com/sonali123123/aps-fault-detection)
 
 - NLP project1: [Text Summarization](https://github.com/sonali123123/Text-Summarization-Project)
 
 - NLP Project2: [Mini IMDB app](https://github.com/sonali123123/Mini-IMDB-app)
 
-- Python project: [Flipkart Review Scrapper](https://github.com/sonali123123/review21)
+
 
 - 💬 Ask me about **Statistics,Mathematics,Machine learning, NLP**
 
