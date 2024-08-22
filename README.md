@@ -16,7 +16,7 @@
 - AI Project 3: [AI_Agent](https://github.com/sonali123123/Python_AI_Agent)
 
 - AI Project 4: [Automate_PDF_to_CSV_OCR](https://github.com/sonali123123/Automate_PDF_to_CSV)_
-- 
+
 - ML project : [aps fault detection](https://github.com/sonali123123/aps-fault-detection)
 
 - NLP project1: [Text Summarization](https://github.com/sonali123123/Text-Summarization-Project)
