@@ -38,8 +38,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali123123&show_icons=true&locale=en&layout=compact" alt="sonali123123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali123123&show_icons=true&locale=en" alt="sonali123123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali123123&" alt="sonali123123" /></p>
