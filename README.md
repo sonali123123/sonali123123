@@ -21,6 +21,10 @@
 
 ### 🚀 **Projects**
 
+#### Agentic AI
+- **[MultiAgentic_Booking_Doctor_Appointment](https://github.com/sonali123123/Supervised_MultiAgentic_Booking_Doctor_Appointment)
+    Developed a Multi Agent Doctor Appointment Booking , powered by Langchain, Langgraph, Ollama, FastAPI
+
 #### Conversational AI
 - **[Multilingual ChatBot](https://github.com/sonali123123/Multilingual_ChatBot)**  
    Developed a multilingual chatbot supporting Indian regional languages, powered by voice capabilities using ASR and TTS.
