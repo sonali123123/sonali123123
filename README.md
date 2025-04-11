@@ -14,7 +14,6 @@
 - 🛠️ Skilled in **RAG** (Retrieval-Augmented Generation), **LangChain**, and **Vector Databases** like **ChromaDB**, **FAISS**, and **Weaviate**  
 - 🗣️ I specialize in building **multilingual chatbots** with **ASR** (Automatic Speech Recognition), **TTS** (Text-to-Speech), and **STT** (Speech-to-Text)  
 - 🔍 Proficient in **OCR-based projects** for extracting and structuring data from PDFs into Excel sheets  
-- 🚀 Currently working on **AI Student Eunoia**, an AI-powered student chatbot that learns and evolves through user interactions  
 - ⚙️ I have hands-on experience with frameworks like **FastAPI**, **Flask**, and models such as **Llama, Mistral, GPT, and Gemma**  
 
 ---
