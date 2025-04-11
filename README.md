@@ -22,7 +22,7 @@
 ### 🚀 **Projects**
 
 #### Agentic AI
-- **[MultiAgentic_Booking_Doctor_Appointment](https://github.com/sonali123123/Supervised_MultiAgentic_Booking_Doctor_Appointment)
+- **[MultiAgentic_Booking_Doctor_Appointment](https://github.com/sonali123123/Supervised_MultiAgentic_Booking_Doctor_Appointment)**
     Developed a Multi Agent Doctor Appointment Booking , powered by Langchain, Langgraph, Ollama, FastAPI
 
 #### Conversational AI
