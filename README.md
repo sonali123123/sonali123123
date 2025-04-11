@@ -25,8 +25,7 @@
 - **[Multilingual ChatBot](https://github.com/sonali123123/Multilingual_ChatBot)**  
    Developed a multilingual chatbot supporting Indian regional languages, powered by voice capabilities using ASR and TTS.
 
-- **[AI Student Eunoia](https://github.com/sonali123123/AI_Student_Eunoia)**  
-   An AI-powered MBA student that can interact, learn through conversations, and assist users with personalized knowledge.  
+ 
 
 #### OCR & PDF Automation
 - **[MultiPDF ChatBot](https://github.com/sonali123123/MultiPDF_ChatBot)**  
